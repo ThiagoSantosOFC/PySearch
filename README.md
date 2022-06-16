@@ -10,6 +10,15 @@ Um software CLi para pesquisar repositorios do Github
 
 ### Realizar o download de repositorios
 
+Dependências: 
+```
+Python
+pip install PyGithub
+pip install validators
+pip install svn
+
+```
+
 ## Feito Com:
 
 [![IDE](https://img.shields.io/badge/Visual_studio_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
